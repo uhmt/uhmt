@@ -1,4 +1,4 @@
-Hi there 
+Hi there.
 
 👋 Hi, I’m Diego Garcia
 👀 I’m interested in Software Development
