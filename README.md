@@ -2,6 +2,10 @@
 
 Junior full-stack developer based in the Dominican Republic. I build web applications with React, TypeScript and Node.js, with a focus on clear interfaces and reliable workflows.
 
+**[View my portfolio](https://diego-garcia-dev.netlify.app/)**
+
+Explore my projects, demos and technical background.
+
 ## Featured project: Nexo
 
 [Try the live demo](https://nexoproj.netlify.app/) · [Explore the code](https://github.com/uhmt/nexo-payment-support-lab)
